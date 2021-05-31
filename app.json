@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "chatbot-placeholder",
+    "slug": "chatbot-placeholder",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon_pho_talk.png",
+    "splash": {
+      "image": "./assets/splash_pho_talk.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.placeholder.photalk",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
